@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Jun Yeop Jung 😄
+
+# 🌱Git Status & Solved.ac
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=innateshy&show_icons=true&theme=gruvbox)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=innateshy)](https://solved.ac/innateshy/)
+
+
