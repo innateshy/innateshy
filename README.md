@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=innateshy&show_icons=true&theme=gruvbox)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=innateshy)](https://solved.ac/innateshy/)
 
-
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={innateshy}&theme=warm)
+<img src="http://mazandi.herokuapp.com/api?handle={innateshy}&theme=warm"/>
