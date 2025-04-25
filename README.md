@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **innateshy/innateshy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
 
-# Jun Yeop Jung 😄
+I'm **Jun Yeop Jung (innateshy)**, a passionate developer who loves solving problems and building cool things!  
+Welcome to my GitHub profile 😄
+
+---
 
 # 🌱Git Status & Solved.ac
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=innateshy&show_icons=true&theme=onedark)
