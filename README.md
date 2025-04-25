@@ -73,5 +73,5 @@ Django, FastAPI 프레임워크 기반의 프로젝트 경력이 있습니다.
 ## 📫 Contact
 
 - ✉️ Email: **[innateshy@gmail.com]**
-- 📝 Blog/Portfolio: **[[yourblog.com](https://yourblog.com)](https://innateshy.tistory.com/)**  
+- 📝 Blog/Portfolio: **[https://innateshy.tistory.com/]**  
 <!-- 필요하면 Notion, LinkedIn 등 추가 가능 -->
