@@ -21,8 +21,6 @@ Django, FastAPI 프레임워크 기반의 프로젝트 경력이 있습니다.
 
 ## 🛠️ 기술 스택
 
-제가 사용할 수 있는 기술 스택은 아래와 같습니다.
-
 **📌 Languages** 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 
