@@ -30,7 +30,11 @@ Django, FastAPI 프레임워크 기반의 프로젝트 경력이 있습니다.
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=Svelte&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Ajax-00599C?style=flat&logo=ajax&logoColor=white"/> <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=Celery&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20API-000000?style=flat&logo=rest&logoColor=white"/>
 
 **🛢️ Databases**  
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
+
 
 **☁️ Cloud / DevOps**
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/CloudFront-FF9900?style=flat&logo=AmazonCloudFront&logoColor=white"/> <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=AmazonS3&logoColor=white"/> <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=AmazonCloudWatch&logoColor=white"/> <img src="https://img.shields.io/badge/API%20Gateway-CC2264?style=flat&logo=AmazonAPIGateway&logoColor=white"/> <img src="https://img.shields.io/badge/Lightsail-F90?style=flat&logo=AmazonLightsail&logoColor=white"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=GoogleCloud&logoColor=white"/> <img src="https://img.shields.io/badge/Sumo%20Logic-000000?style=flat&logo=sumologic&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=NGINX&logoColor=white"/>
@@ -49,11 +53,11 @@ Django, FastAPI 프레임워크 기반의 프로젝트 경력이 있습니다.
 
 | Project | Description | Period | Tech |
 |--------|-------------|--------|------|
+| [**Pybo (Django)**](https://github.com/innateshy/pybo) | Django 게시판 기반 웹서비스 실습 코드. | - | Python, Django |
+| [**FastAPI Pybo**](https://github.com/innateshy/fastapi-pybo) | FastAPI 게시판 기반 웹서비스 실습 코드. | - | Python, FastAPI |
 | [**Bus4You**](https://github.com/innateshy/bus4you) | 날짜, 시간, 목적지를 선택하여 실시간으로 버스 티켓을 예매할 수 있는 GUI 기반 프로그램. | 2023.04.19 ~ 2023.04.24 | Java, JDBC, OracleDB, Swing |
 | [**li-book-lary**](https://github.com/innateshy/li-book-lary) | 온라인 서점 사이트. 사용자 및 관리자 기능과 데이터 시각화 포함한 웹 애플리케이션. | 2023.07.17 ~ 2023.09.04 | Java, Spring, OracleDB, JSP |
 | [**YAKAJA**](https://github.com/hotel-yakaja/yakaja) | 호텔 예약 사이트. 회원/관리자/업주 기능 및 예약 시스템 구현. | 2023.06.13 ~ 2023.07.07 | Java, Servlet, OracleDB, JSP |
-| [**Pybo (Django)**](https://github.com/innateshy/pybo) | Django 게시판 기반 웹서비스 실습 코드. | - | Python, Django |
-| [**FastAPI Pybo**](https://github.com/innateshy/fastapi-pybo) | FastAPI 게시판 기반 웹서비스 실습 코드. | - | Python, FastAPI |
 
 ---
 
