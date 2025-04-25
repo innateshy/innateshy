@@ -48,7 +48,7 @@ Django, FastAPI 프레임워크 기반의 프로젝트 경력이 있습니다.
 
 ## 🚀 Projects
 
-> 아래의 프로젝트들은 학원 수강 중 진행한 Java 기반 팀/개인 프로젝트이며, 현재는 Python 백엔드 개발자로 전향하여 Django와 FastAPI 기반 프로젝트를 진행하고 있습니다.
+> 아래의 프로젝트들은 학원 수강 중 진행한 Java 기반 팀/개인 프로젝트이며, 현재는 Python 백엔드 개발자로서 Django와 FastAPI 기반 프로젝트를 진행하고 있습니다.
 
 | Project | Description | Period | Tech |
 |--------|-------------|--------|------|
@@ -68,7 +68,10 @@ Django, FastAPI 프레임워크 기반의 프로젝트 경력이 있습니다.
   <img src="http://mazandi.herokuapp.com/api?handle=innateshy&theme=cold" height="150"/>
 </p>
 
-# 🌱Git Status & Solved.ac
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=innateshy&show_icons=true&theme=onedark)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=innateshy)](https://solved.ac/innateshy/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=innateshy&theme=cold)
+---
+
+## 📫 Contact
+
+- ✉️ Email: **[innateshy@gmail.com]**
+- 📝 Blog/Portfolio: **[[yourblog.com](https://yourblog.com)](https://innateshy.tistory.com/)**  
+<!-- 필요하면 Notion, LinkedIn 등 추가 가능 -->
